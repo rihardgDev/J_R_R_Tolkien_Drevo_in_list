@@ -17,3 +17,7 @@ If you’d like to create a more faithful reproduction, the back cover could be 
 ![Cover](/Cover/All_together_Enhanced_flaps_V2.png)
 
 
+Currently final version: 
+![Cover](/Cover/All_together_Enhanced_flaps_V4.png)
+
+
