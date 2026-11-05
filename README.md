@@ -18,6 +18,6 @@ If you’d like to create a more faithful reproduction, the back cover could be 
 
 
 Currently final version: 
-![Cover](/Cover/All_together_Enhanced_flaps_V4.png)
+![Cover](/All_together_Enhanced_flaps_V4.png)
 
 
